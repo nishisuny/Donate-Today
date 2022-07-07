@@ -1,0 +1,263 @@
+*{
+    border:0;
+    margin:0;
+    }
+
+    
+
+.donate{
+    width: 100%;
+    height: 620px;
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    /* overflow: hidden; */
+}
+.hero-text{
+    width: 900px;
+    height: 600px;
+    color: #ffffff;
+    position: absolute;
+    top: 150px;
+    right: 70px;
+    bottom: unset;  
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.align-item{
+    margin: 160px;
+}
+
+.link-button{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgba(252, 83, 27, 0.788),rgb(235, 55, 24));
+    padding: 20px 50px;
+    margin: 220px;
+    border-radius: 15px;
+    /* text-align: center; */
+    
+}
+
+
+#text{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Donate-Today{
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(255, 252, 252);
+}
+
+.link-btn1{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    background-image: linear-gradient(rgb(230, 230, 230),rgb(255, 214, 214));
+    padding: 40px 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.link-btn2{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    background-image: linear-gradient(rgb(243, 89, 28),rgb(228, 4, 4));
+    padding: 50px 50px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.link-btn3{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    background-image: linear-gradient(rgb(230, 230, 230),rgb(252, 208, 208));
+    padding: 40px 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.link-btn4{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    background-image: linear-gradient(rgb(230, 230, 230),rgb(247, 204, 204));
+    padding: 40px 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.link-btn5{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    background-image: linear-gradient(rgb(230, 230, 230),rgb(255, 222, 222));
+    padding: 40px 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.box-tk{
+    margin-top: 70px;
+    
+}
+
+.other{
+    margin-top: 80px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: rgb(170, 164, 164);
+    
+}
+
+.part3{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 70px;
+    background-color: rgb(255, 252, 252);
+}
+#font-edit{
+    font-size: 50px;
+}
+
+#font-small{
+    font-size: 15px;
+}
+
+.colums{
+    margin: 10px;
+    
+}
+
+.solved-area{
+    display: flex;
+    margin-bottom: 100px;
+    background-repeat: no-repeat;
+}
+.solved-area,p{
+    font-size: 5px;
+}
+.solved-area,h1{
+    font-size: 10px;
+}
+.last-item{
+    width: 500px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 3px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px 10px rgba(54, 49, 46, 0.24);
+}
+
+#last-item1{
+    background-color: rgb(169, 255, 226);
+}
+#last-item2{
+    background-color: rgb(240, 255, 157);
+}
+#last-item3{
+    background-color: rgb(255, 186, 186)
+}
+
+
+.section1{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+
+#edit-img{
+    width: 600px;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+#edit-img1{
+    width: 600px;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.link-button1{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+    background-image: linear-gradient(rgb(243, 89, 28),rgb(228, 4, 4));
+    padding: 10px 10px;
+    margin: 80px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.half-width,h1{
+    font-size: 50px;
+}
+.half-width,p{
+    font-size: 20px;
+}
+
+.all-subscription{
+    background-color: bisque;
+}
+.Subscription{
+    text-align: center;
+    
+}
+
+.form-control{
+    text-align:inherit;
+    margin-right: 20px;
+    width: 400px;
+    height: 40px;
+    background-color: rgb(182, 182, 182);
+    border-radius: 5px;
+}
+#again-control{
+    margin-top: 50px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.link-button3{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+    background-image: linear-gradient(rgb(243, 89, 28),rgb(228, 4, 4));
+    padding: 10px 10px;
+    margin: 500px;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color: rgb(36, 33, 37);
+    text-align: center;
+}
+#edit-h2{
+    color: coral;
+}
+#edit-p{
+    color: grey;
+}
